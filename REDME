@@ -1,0 +1,10 @@
+O repositório crudphp é uma atividade realizada para faculdade.
+
+O sistema conta com:
+-Cadastro de usuário;
+-Login;
+>> Se usuário logado:
+-Página home onde o usuário pode postar algo;
+-Lintas de posts;
+-Alteração de senha;
+-Logout;
